@@ -1,0 +1,28 @@
+name: musser
+favicon: null
+layout_spectrum: 0.43194267665967345
+typography_spectrum: 0.9454990159720182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.40459315851330757
+  lightness: 0.959990476956591
+  saturation: 0.48212344548664987
+  rhythmicContrast: 0.8281919616274536
+purpose: []
