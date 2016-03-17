@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[musser]]></title>
         <description><![CDATA[musser]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/musser/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 18:39:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 18:43:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/musser/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Photographs are an easy outlet for me. That's why most of them are shot within 15 feet of where I sit all day.</p>]]></description>
+            <link>https://thegrid.ai/musser/ca02f7be-59fe-43d0-826c-d41829afe790/index.html</link>
+            <guid isPermaLink="false">ca02f7be-59fe-43d0-826c-d41829afe790</guid>
+            <pubDate>Thu, 17 Mar 2016 18:43:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Weening myself off a regular salary to regain my creative independence at age 66 is a daunting task. It'll be an interesting ride. </p>]]></description>
-            <link>undefined99734781-713c-4143-8fd7-85eeafc65ed0/index.html</link>
+            <link>https://thegrid.ai/musser/99734781-713c-4143-8fd7-85eeafc65ed0/index.html</link>
             <guid isPermaLink="false">99734781-713c-4143-8fd7-85eeafc65ed0</guid>
             <pubDate>Thu, 17 Mar 2016 18:39:50 GMT</pubDate>
         </item>
