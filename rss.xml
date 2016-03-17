@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[musser]]></title>
+        <description><![CDATA[musser]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 18:39:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Weening myself off a regular salary to regain my creative independence at age 66 is a daunting task. It'll be an interesting ride. </p>]]></description>
+            <link>undefined99734781-713c-4143-8fd7-85eeafc65ed0/index.html</link>
+            <guid isPermaLink="false">99734781-713c-4143-8fd7-85eeafc65ed0</guid>
+            <pubDate>Thu, 17 Mar 2016 18:39:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
